@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I see you have stumbled upon my profile. Welcome, dear friend👋
 # 💫 About Me:
 🔭 I am currently working on Luminate, an edtech platform that aims to make learning fun, engaging, and interactive for college students.<br>🌱 I’m currently learning about sef-hosting with VPS<br>💬 Ask me about career related stuff! Especially about SWE internships<br>💻 Currently mastering LeetCode<br>📫 Best way to reach me: izuchukwumba100@gmail.com<br>
 
