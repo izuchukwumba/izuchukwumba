@@ -28,8 +28,8 @@ I see you have stumbled upon my profile. Welcome, dear friend👋
 ![](https://nirzak-streak-stats.vercel.app/?user=izuchukwumba&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=izuchukwumba&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=izuchukwumba&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=izuchukwumba&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
 
 <!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=izuchukwumba&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
